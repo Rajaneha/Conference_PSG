@@ -601,7 +601,8 @@ section
 }
 .main_nav > ul > li.has_children > ul li.has_children > a:hover::after
 {
-	color: #0a2642;
+	/*color: #0a2642;*/
+	color: #181457;
 }
 .header_right
 {
