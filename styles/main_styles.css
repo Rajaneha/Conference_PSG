@@ -1020,8 +1020,8 @@ width: 120px;
 *********************************/
 .overlay-box {
 	position: relative;
-	height: 200px;
-	width: 400px;
+	height: 100vh;
+	
   }
   
   .overlay {
