@@ -518,7 +518,7 @@ section
 }
 .main_nav > ul > li.active.has_children > a::after
 {
-	color: #AA14F0;
+	color: #BC8CF2;
 }
 .main_nav > ul > li:not(:last-of-type)
 {
