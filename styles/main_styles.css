@@ -426,7 +426,8 @@ section
 	position: fixed;
 	
 	width: 100%;
-	background: #0a2642;
+	/*background: #0a2642;*/
+	background: #190452;
 	z-index: 100;
 	border-bottom: solid 2px #AA14F0;
 }
