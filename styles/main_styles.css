@@ -518,7 +518,7 @@ section
 }
 .main_nav > ul > li.active.has_children > a::after
 {
-	color: #BC8CF2;
+	color: #AA14F0;
 }
 .main_nav > ul > li:not(:last-of-type)
 {
@@ -535,7 +535,7 @@ section
 .main_nav > ul > li.active a,
 .main_nav > ul > li > a:hover::after
 {
-	color: #AA14F0;
+	color: #BC8CF2;
 }
 .main_nav ul li > ul
 {
