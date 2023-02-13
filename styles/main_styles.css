@@ -44,7 +44,7 @@ body
 	font-family: 'Roboto', sans-serif;
 	font-size: 14px;
 	font-weight: 400;
-	background: #FFFFFF;
+	background: #EEEEEE;
 	color: #a5a5a5;
 }
 div
@@ -304,15 +304,15 @@ section
 }
 .button_2
 {
-	background: #b366ff;
+	background: #AA14F0;
 }
 .button_3
 {
-	background: #ff9000;
+	background: #BC8CF2;
 }
 .button_4
 {
-	background: #b366ff;
+	background: #AA14F0;
 	-webkit-transition: all 200ms ease;
 	-moz-transition: all 200ms ease;
 	-ms-transition: all 200ms ease;
@@ -331,7 +331,7 @@ section
 }
 .button_1::after
 {
-	background: #b366ff;
+	background: #AA14F0;
 }
 .button_2::after
 {
@@ -429,7 +429,7 @@ section
 	width: calc(100% - 48px);
 	background: #0a2642;
 	z-index: 100;
-	border-bottom: solid 2px #b366ff;
+	border-bottom: solid 2px #AA14F0;
 }
 .header_content
 {
@@ -468,7 +468,7 @@ section
 	font-size: 30px;
 	line-height: 0.75;
 	font-weight: 500;
-	color: #b366ff;
+	color: #AA14F0;
 	text-transform: uppercase;
 }
 .logo a > span > span
@@ -519,7 +519,7 @@ section
 }
 .main_nav > ul > li.active.has_children > a::after
 {
-	color: #b366ff;
+	color: #AA14F0;
 }
 .main_nav > ul > li:not(:last-of-type)
 {
@@ -536,7 +536,7 @@ section
 .main_nav > ul > li.active a,
 .main_nav > ul > li > a:hover::after
 {
-	color: #b366ff;
+	color: #AA14F0;
 }
 .main_nav ul li > ul
 {
@@ -570,7 +570,7 @@ section
 }
 .main_nav ul li > ul > li a
 {
-	color: #b366ff;
+	color: #AA14F0;
 }
 .main_nav ul li > ul > li a:hover
 {
@@ -581,7 +581,7 @@ section
 	position: absolute;
 	top: -20px;
 	left: 100%;
-	border-left: solid 3px #b366ff;
+	border-left: solid 3px #AA14F0;
 }
 .main_nav > ul > li.has_children > ul li.has_children > a::after
 {
@@ -612,7 +612,7 @@ section
 {
 	height: 100%;
 	width: 200px;
-	background: #b366ff;
+	background: #AA14F0;
 	text-align: center;
 }
 .header_link a
@@ -681,7 +681,7 @@ section
 }
 .social ul li:hover
 {
-	background: #b366ff;
+	background: #AA14F0;
 }
 .social ul li a
 {
@@ -720,7 +720,7 @@ section
 }
 .log_reg ul li a:hover
 {
-	color: #b366ff;
+	color: #AA14F0;
 }
 .hamburger
 {
@@ -740,7 +740,7 @@ section
 }
 .hamburger:hover i
 {
-	color: #b366ff;
+	color: #AA14F0;
 }
 **********************************
 
@@ -757,7 +757,7 @@ section
 }
 
 .speaker .card {
-  background-color: #b366ff;
+  background-color: #AA14F0;
   width: 300px;
   height: 200px;
   text-align: center;
@@ -774,7 +774,7 @@ section
   width: 150px;
   border-radius: 50%;
   margin: -5em auto auto auto;
-  border: 10px solid #b366ff;
+  border: 10px solid #AA14F0;
 }
 
 .speaker .card .subtle {
@@ -908,7 +908,7 @@ section
 }
 .menu_close:hover i
 {
-	color: #b366ff;
+	color: #AA14F0;
 }
 .menu_content
 {
@@ -936,7 +936,7 @@ section
 }
 .menu_nav ul li a:hover
 {
-	color: #b366ff;
+	color: #AA14F0;
 }
 .menu_social
 {
@@ -1055,7 +1055,7 @@ width: 120px;
 }
 .home_title h1 span:first-of-type
 {
-	color: #ff9000;
+	color: #BC8CF2;
 }
 .home_title h3 span
 {
@@ -1069,7 +1069,7 @@ width: 120px;
 }
 .home_title h3 span:first-of-type
 {
-	color: #ff9000;
+	color: #BC8CF2;
 }
 .home_info_container
 {
@@ -1081,7 +1081,7 @@ width: 120px;
 	height: 49px;
 	padding-left: 22px;
 	padding-right: 24px;
-	background: #b366ff;
+	background: #AA14F0;
 }
 .home_info ul
 {
@@ -1140,7 +1140,7 @@ width: 120px;
 .home_slider_custom_dot.active,
 .home_slider_custom_dot:hover
 {
-	background: #b366ff;
+	background: #AA14F0;
 }
 .home_slider .owl-dots
 {
@@ -1350,17 +1350,17 @@ th{
 }
 .tab:hover
 {
-	background: #b366ff;
+	background: #AA14F0;
 	color: #ffffff;
 }
 .tab1:hover
 {
-	background: #b366ff;
+	background: #AA14F0;
 	color: #ffffff;
 }
 .tab2:hover
 {
-	background: #b366ff;
+	background: #AA14F0;
 	color: #ffffff;
 }
 .tab:not(:last-child)
@@ -1377,17 +1377,17 @@ th{
 }
 .tab.active
 {
-	background: #b366ff;
+	background: #AA14F0;
 	color: #ffffff;
 }
 .tab1.active
 {
-	background: #b366ff;
+	background: #AA14F0;
 	color: #ffffff;
 }
 .tab2.active
 {
-	background: #b366ff;
+	background: #AA14F0;
 	color: #ffffff;
 }
 .tab_panels
@@ -1544,12 +1544,12 @@ th{
 {
 	font-size: 14px;
 	font-weight: 700;
-	color: #b366ff;
+	color: #AA14F0;
 	text-decoration: underline;
 }
 .tab_link a:hover
 {
-	color: #ff9000;
+	color: #BC8CF2;
 }
 
 .tab_link1
@@ -1560,12 +1560,12 @@ th{
 {
 	font-size: 14px;
 	font-weight: 700;
-	color: #b366ff;
+	color: #AA14F0;
 	text-decoration: underline;
 }
 .tab_link1 a:hover
 {
-	color: #ff9000;
+	color: #BC8CF2;
 }
 .tab_link2
 {
@@ -1575,12 +1575,12 @@ th{
 {
 	font-size: 14px;
 	font-weight: 700;
-	color: #b366ff;
+	color: #AA14F0;
 	text-decoration: underline;
 }
 .tab_link2 a:hover
 {
-	color: #ff9000;
+	color: #BC8CF2;
 }
 
 
@@ -1625,7 +1625,7 @@ th{
 
 .tabver:hover
 {
-	background: #b366ff;
+	background: #AA14F0;
 	color: #ffffff;
 }
 
@@ -1636,7 +1636,7 @@ th{
 
 .tabver.active
 {
-	background: #b366ff;
+	background: #AA14F0;
 	color: #ffffff;
 }
 
@@ -1712,12 +1712,12 @@ th{
 {
 	font-size: 14px;
 	font-weight: 700;
-	color: #b366ff;
+	color: #AA14F0;
 	text-decoration: underline;
 }
 .tab_linkver  a:hover
 {
-	color: #ff9000;
+	color: #BC8CF2;
 }
 
 
@@ -1770,11 +1770,11 @@ tr:nth-child(even) {
 }
 .schedule_title_bar_1
 {
-	background: #b366ff;
+	background: #AA14F0;
 }
 .schedule_title_bar_2
 {
-	background: #ff9000;
+	background: #BC8CF2;
 }
 .schedule_list
 {
@@ -1820,7 +1820,7 @@ tr:nth-child(even) {
 {
 	font-size: 14px;
 	font-weight: 700;
-	color: #b366ff;
+	color: #AA14F0;
 }
 .schedule_title
 {
@@ -1838,12 +1838,12 @@ tr:nth-child(even) {
 }
 .schedule_info a
 {
-	color: #b366ff;
+	color: #AA14F0;
 	margin-left: 3px;
 }
 .schedule_info a:hover
 {
-	color: #ff9000;
+	color: #BC8CF2;
 }
 
 /*********************************
@@ -1873,7 +1873,7 @@ tr:nth-child(even) {
 	width: 100%;
 	height: 100%;
 	content: '';
-	border: solid 1px #b366ff;
+	border: solid 1px #AA14F0;
 	background: rgba(127,102,255,0.67);
 	visibility: hidden;
 	opacity: 0;
@@ -1895,7 +1895,7 @@ tr:nth-child(even) {
 	bottom: 22px;
 	width: 191px;
 	height: 67px;
-	background: #b366ff;
+	background: #AA14F0;
 	padding-left: 21px;
 	-webkit-transition: all 400ms ease;
 	-moz-transition: all 400ms ease;
@@ -1916,7 +1916,7 @@ tr:nth-child(even) {
 }
 .speaker_name a:hover
 {
-	color: #b366ff;
+	color: #AA14F0;
 }
 .speaker_title
 {
@@ -2216,7 +2216,7 @@ tr:nth-child(even) {
 	height: 59px;
 	border: none;
 	outline: none;
-	background: #b366ff;
+	background: #AA14F0;
 	border-bottom: solid 3px #ffffff;
 	cursor: pointer;
 	margin-top: 13px;
