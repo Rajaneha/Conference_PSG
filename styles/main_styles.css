@@ -1018,7 +1018,18 @@ width: 120px;
 /*********************************
 5. Home
 *********************************/
-
+.overlay-box {
+	position: relative;
+	height: 200px;
+	width: 400px;
+  }
+  
+  .overlay {
+	background: black;
+	height: 100%;
+	width: 100%;
+	opacity: 0.7;  /* Must be translucent */
+  }
 .home
 {
 	height: 100vh;
