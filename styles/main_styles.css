@@ -424,7 +424,7 @@ section
 .header
 {
 	position: fixed;
-	top: 22px;
+	top: 0px;
 	left: 23px;
 	width: calc(100% - 48px);
 	background: #0a2642;
