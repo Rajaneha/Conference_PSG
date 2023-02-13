@@ -273,7 +273,6 @@ section
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center center;
-	opacity: 0.5;
 	filter:brightness(45%);
 }
 .nopadding
