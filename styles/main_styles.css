@@ -1292,6 +1292,7 @@ th{
 }
 .tab
 {
+	width:150px;
 	height: 57px;
 	background: #f5f8fb;
 	-webkit-flex-grow: 1;
@@ -1312,6 +1313,7 @@ th{
 }
 .tab1
 {
+	width:150;
 	height: 57px;
 	background: #f5f8fb;
 	-webkit-flex-grow: 1;
@@ -1332,6 +1334,7 @@ th{
 }
 .tab2
 {
+	width:150;
 	height: 57px;
 	background: #f5f8fb;
 	-webkit-flex-grow: 1;
