@@ -1270,6 +1270,19 @@ th{
 	margin-bottom:10px;
 	margin-left:20px;
 }
+
+.para{
+	text-align:justify;
+	font-size:17px;
+}
+
+.flex{
+	display:flex;
+}
+
+.p{
+	padding-left:9px;
+}
 /*********************************
 8. Tabs Section
 *********************************/
