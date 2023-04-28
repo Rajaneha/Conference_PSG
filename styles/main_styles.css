@@ -1287,8 +1287,8 @@ th{
 .column1 {
   float: left;
   width: 33.33%;
-  padding: 10px;
-  height: 1000px; 
+  padding: 7px;
+  height: 1100px; 
 }
 
 .row1:after {
