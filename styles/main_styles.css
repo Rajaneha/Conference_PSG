@@ -1295,6 +1295,7 @@ th{
   content: "";
   display: table;
   clear: both;
+  column-gap: 30px;
 }
 /*********************************
 8. Tabs Section
