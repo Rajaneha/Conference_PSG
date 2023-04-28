@@ -1283,6 +1283,19 @@ th{
 .p{
 	padding-left:9px;
 }
+
+.column1 {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+  height: 300px; 
+}
+
+.row1:after {
+  content: "";
+  display: table;
+  clear: both;
+}
 /*********************************
 8. Tabs Section
 *********************************/
