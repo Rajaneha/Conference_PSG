@@ -390,3 +390,11 @@
             display:none !important;
         }
     } 
+
+
+
+@media screen and (max-width: 800px) {
+  .column1 {
+    width: 100%;
+  }
+}
