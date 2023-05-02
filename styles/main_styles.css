@@ -1299,9 +1299,9 @@ th{
 }
 
 .GFG {
-            background-color: white;
-            border: 2px solid black;
-            color: violet;
+            background-color:violet;
+            border: none;
+            color: white;
             padding: 5px 10px;
             text-align: center;
             display: inline-block;
