@@ -151,14 +151,8 @@ $(document).ready(function()
     {
     	if($('.timer').length)
     	{
-    		// Uncomment line below and replace date
 	    	var target_date = new Date("Dec 14, 2023 09:00:00").getTime();
 
-	    	// comment lines below
-	    	//var date = new Date();
-	    	//date.setDate(date.getDate() + 3);
-	    	//var target_date = date.getTime();
-	    	//----------------------------------------
 	 
 			// variables for time units
 			var days, hours, minutes, seconds;
@@ -168,12 +162,21 @@ $(document).ready(function()
 			var m = $('#minute');
 			var s = $('#second');
 
-			setInterval(function ()
-			{
-			    // find the amount of "seconds" between now and target
-			    var current_date = new Date().getTime();
-			    var seconds_left = (target_date - current_date) / 1000;
-			 
+			var interval = setInterval(function () {
+				// find the amount of "seconds" between now and target
+				var current_date = new Date().getTime();
+				var seconds_left = (target_date - current_date) / 1000;
+	
+				// Check if the target date is reached
+				if (seconds_left <= 0) {
+					clearInterval(interval); // Stop the interval
+					// Set timer values to 0
+					d.text('0');
+					h.text('0');
+					m.text('0');
+					s.text('0');
+					return; // Exit the interval function
+				}
 			    // do some time calculations
 			    days = parseInt(seconds_left / 86400);
 			    seconds_left = seconds_left % 86400;
